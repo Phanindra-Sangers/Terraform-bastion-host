@@ -1,0 +1,2 @@
+string = "[ERROR] 2023-01-21T07:45:00.783Z        ed28cab3-09ea-4715-9175-af41f366a767    This is a sample Sendgrid message.... !!
+[ERROR] 2023-01-21T07:45:00.783Z        ed28cab3-09ea-4715-9175-af41f366a767    {"error": {"code": 0, "error": {"errorCategory": "thirdParty", "errorSeverity": "error", "extServiceName": "BITLY"}}}"
